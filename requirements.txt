@@ -1,5 +1,6 @@
 step 1) curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
 step 2) . ~/.nvm/nvm.sh
 step 3) nvm install node
-step 4) npm run build
-step 5) npm start
+step 4) npm install
+step 5) npm run build
+step 6) npm start
